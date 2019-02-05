@@ -6,3 +6,4 @@
 - failure Friday : https://www.pagerduty.com/blog/failure-friday-at-pagerduty/
 - Chaos Engineering : Gremlin
 - Email integration and email regex rules
+- Check mail sent from a server using : /var/log/maillog
